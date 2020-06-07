@@ -20,6 +20,6 @@ Your continued use of our app will be regarded as acceptance of our practices ar
 
 This policy is effective as of 3 June 2020.
 
-[Privacy Policy created with GetTerms] (https://getterms.io/).
+[Privacy Policy created with GetTerms](https://getterms.io/).
 
 [back](./)
