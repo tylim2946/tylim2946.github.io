@@ -4,8 +4,6 @@ title: Privacy Policy
 description: How we respect your privacy.
 ---
 
-## Privacy Policy
-
 Your privacy is important to us. It is TY Apps's policy to respect your privacy regarding any information we may collect from you through our app, including but not limited to Jump!.
 
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
@@ -22,6 +20,6 @@ Your continued use of our app will be regarded as acceptance of our practices ar
 
 This policy is effective as of 3 June 2020.
 
-[Privacy Policy created with GetTerms.] (https://getterms.io/)
+[Privacy Policy created with GetTerms.] (./https://getterms.io/)
 
 [back](./)
