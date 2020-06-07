@@ -35,7 +35,7 @@ TY Apps may revise these terms of service for its app at any time without notice
 # 8. Governing Law
 These terms and conditions are governed by and construed in accordance with the laws of WASHINGTON and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
 
-[Terms of Service created with GetTerms.] (https://getterms.io/)
+[Terms of Service created with GetTerms] (https://getterms.io/).
 
 [back](./)
 
