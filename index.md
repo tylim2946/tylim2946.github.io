@@ -10,6 +10,8 @@ description: We make games.
 
 We have recently released version 1.0.3 of Jump!
 
+### Change Log
+
 > Improved UI Compatibility
 >
 > Minor bug fixes
@@ -17,6 +19,6 @@ We have recently released version 1.0.3 of Jump!
 
 ### Download
 
-[Play Store](./error404.html)
+[Play Store](https://play.google.com/store/apps/details?id=com.TYApps.Jump)
 
-[App Store](./error404.html)
+[App Store](https://apps.apple.com/ca/app/jump-endless-platforms/id1516668447)
